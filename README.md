@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdugani0523&show_icons=true&theme=dracula)
+![Abror's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abror2305&show_icons=true&theme=dracula)
 <!--
 **Abror2305/Abror2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
