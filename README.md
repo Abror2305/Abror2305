@@ -4,3 +4,4 @@
     <img alt="Abror's GitHub Profile README" src="https://raw.githubusercontent.com/Abror2305/Abror2305/main/light_mode.svg">
   </picture>
 </a>
+©Cridits to Andrew6rant
