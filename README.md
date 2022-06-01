@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-![Abror's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abror2305&show_icons=true&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abror2305&theme=tokyonight)](https://git.io/streak-stats)
+![Abror's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abror2305&show_icons=true&theme=tokyonight)
 <!--
 **Abror2305/Abror2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
